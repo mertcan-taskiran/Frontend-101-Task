@@ -1,3 +1,7 @@
+.image{
+    border-radius: 100%;
+}
+
 .header {
     list-style-type: none;
     margin: 10px;
@@ -33,13 +37,13 @@
     height: 44px;
     margin: 0 auto;
     margin-top: -77px;
-    width: 582px;
+    width: 480px;
     justify-content: center;
 
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 20px;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 
 .buttons {
