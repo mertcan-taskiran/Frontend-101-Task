@@ -47,3 +47,6 @@ Google 1996 yılında kuruldu ve ilk versiyonunu 1998 yılında yayınladı. 199
 * Butonların çalışmaması hiç sorun değil. Sadece tasarımsal olarak bu görüntüye benzesin ve aşağıdaki linkler çalışıyor olsun yeterli.
 * Tasarladığınız bölümler ile alakalı kodunuzda açıklama satırlarına yer veriniz.
 * Sayfa ile alakalı detaylara sayfanın üzerine sağ tıklayıp "İncele/Inspect" diyerek ulaşabilirsiniz.
+
+## Ödev 6
+### Google Ana Sayfasını Tasarlamak
